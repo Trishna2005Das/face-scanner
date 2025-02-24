@@ -1,0 +1,5 @@
+dlib==19.24.6
+dnspython==2.7.0
+numpy==2.2.3
+opencv-python==4.11.0.86
+pymongo==4.11.1
