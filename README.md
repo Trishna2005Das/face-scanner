@@ -70,6 +70,3 @@ This project is a face recognition system using OpenCV and Dlib. It captures ima
 - Highest accuracy achieved: 99.4%
 - Face comparison is done using the cosine formula.
 
-## License
-
-This project is licensed under the MIT License.
